@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: PETJ Open Graph Map
-Plugin URI:  http://www.multimusen.dk/
+Plugin URI:  https://github.com/asathoor/ogm
 Description: OGP developed by Facebook ads a tile to a SoMe link. The plugin was developed for the research WordPress project.
 Version:     20161216
 Author:      Per Thykjaer Jensen
-Author URI:  http://www.multimusen.dk/
+Author URI:  https://github.com/asathoor/
 License:     GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: wporg
