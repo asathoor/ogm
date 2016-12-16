@@ -16,10 +16,10 @@ function petj_ogp(){
   ?>
 
   <!-- petj: the open graph map plugin -->
-  <meta property="og:title" content="<?php echo get_bloginfo('name'); ?>" />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="<?php echo get_bloginfo('url'); ?>" />
-  <meta property="og:description" content="<?php echo get_bloginfo('description');  ?>" />
+  <meta property="og:title" content="<?php echo get_bloginfo('name'); ?>">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="<?php echo get_bloginfo('url'); ?>">
+  <meta property="og:description" content="<?php echo get_bloginfo('description');  ?>">
   <?php
   // a path to whatever featured image you have
   if ( has_post_thumbnail() ) { // check if the post has a Post Thumbnail assigned to it.
